@@ -12,3 +12,4 @@ print(f"Estado de Carlos: {'Vivo' if juego.jugadores[2].esta_vivo else 'Muerto'}
 print(juego.votacion_dia("Nacho"))
 
 print(juego.comprobar_victoria())
+
